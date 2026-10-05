@@ -75,6 +75,12 @@ const socials = [
     "selfhst_instagram",
   ],
   [
+    "TikTo",
+    "@tiktoknyatiway",
+    "https://tiktok.com/@tiktoknyatiway",
+    "thesvg-color_tiktok-light",
+  ],
+  [
     "YouTube",
     "@pratiwiiip",
     "https://youtube.com/@pratiwiiip",
